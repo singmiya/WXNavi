@@ -14,6 +14,7 @@
 		2EBD937694AA2E1FF591D6FA /* UIImage+GenerateImage.m in Sources */ = {isa = PBXBuildFile; fileRef = 2EBD9BBC1DF68DE6737A7F7E /* UIImage+GenerateImage.m */; };
 		2EBD942809B95CE95952373A /* UINavigationController+StatusBarStyle.m in Sources */ = {isa = PBXBuildFile; fileRef = 2EBD9240813C8297F38C8F55 /* UINavigationController+StatusBarStyle.m */; };
 		2EBD97C94DA7EC335CED2866 /* BaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2EBD968B9E10E0BD8CBC401D /* BaseViewController.m */; };
+		2EBD97D3629144C11E6A3166 /* wxnavi.gif in Resources */ = {isa = PBXBuildFile; fileRef = 2EBD9A7E07D83C0F42D2EFF5 /* wxnavi.gif */; };
 		2EBD9866C18D184C79CC5044 /* pixel.png in Resources */ = {isa = PBXBuildFile; fileRef = 2EBD9E97C3C0F9D8D029CF1E /* pixel.png */; };
 		2EBD9A89AEF2E09BA472DCD8 /* camera@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2EBD9AB2C611CB4CD9B5FA12 /* camera@1x.png */; };
 		2EBD9B3ACF977535B3342CA1 /* camera@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2EBD9DA379B2A16BCD85C77A /* camera@2x.png */; };
@@ -54,6 +55,7 @@
 		2EBD9655614CC6AAB2957AA8 /* camera@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "camera@3x.png"; sourceTree = "<group>"; };
 		2EBD968B9E10E0BD8CBC401D /* BaseViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BaseViewController.m; sourceTree = "<group>"; };
 		2EBD9A68D76ADD574D03F783 /* BaseViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BaseViewController.h; sourceTree = "<group>"; };
+		2EBD9A7E07D83C0F42D2EFF5 /* wxnavi.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = wxnavi.gif; sourceTree = "<group>"; };
 		2EBD9AB2C611CB4CD9B5FA12 /* camera@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "camera@1x.png"; sourceTree = "<group>"; };
 		2EBD9B9FB342E2506638F7DA /* span.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = span.png; sourceTree = "<group>"; };
 		2EBD9BBC1DF68DE6737A7F7E /* UIImage+GenerateImage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+GenerateImage.m"; sourceTree = "<group>"; };
@@ -185,6 +187,7 @@
 			isa = PBXGroup;
 			children = (
 				2EBD9416E959CD8BAF4CF10D /* images */,
+				2EBD9A7E07D83C0F42D2EFF5 /* wxnavi.gif */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -359,6 +362,7 @@
 				2EBD9A89AEF2E09BA472DCD8 /* camera@1x.png in Resources */,
 				2EBD9B3ACF977535B3342CA1 /* camera@2x.png in Resources */,
 				2EBD90C864CCF46B6D5ECB4C /* camera@3x.png in Resources */,
+				2EBD97D3629144C11E6A3166 /* wxnavi.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
